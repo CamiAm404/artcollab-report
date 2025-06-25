@@ -120,10 +120,6 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=6662ef6b&is=66619deb&hm=136bc937831b97c2642fdb2f6fdcc2e69f4f395215c0ebb85af2bcbaebab074f&=&format=webp&quality=lossless&width=829&height=411" alt="Report Commits 1 TP1"/>
-
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=6662ef7f&is=66619dff&hm=06f0670bb2f4a7c0a585ebb064dc912393d2684d92aed846dfa509873660a48b&=&format=webp&quality=lossless&width=448&height=411" alt="Report Commits 2 TP1"/>
-
 <br>
 
 TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
@@ -132,19 +128,15 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, centrado en el desarrollo de la API.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248774359313682543/image.png?ex=6664e340&is=666391c0&hm=25c46a6a7a90901024dffd8fec4da63afc40cc20725bf240a3ec2401551201a8&=&format=webp&quality=lossless" alt="Report Commits 1 TB2"/>
-
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248774451097763941/image.png?ex=6664e356&is=666391d6&hm=e31e2adbe17c2d4c75c48e0f0083d28ad66286142bdfa2dc9083e667e6a0511c&=&format=webp&quality=lossless&width=486&height=592" alt="Report Commits 2 TB2"/>
-
 TF1: Se han cumplido las tareas designadas para la entrega del TF1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
 
 - Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, centrado en concluir desarrollo de la API y proceder a su despliegue.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1255192690862198989/image.png?ex=667c3cc9&is=667aeb49&hm=2d91cc770a8fc193c088d7978b87e8753a6c82de1dee8b77dc2a046918a8ee88&=&format=webp&quality=lossless&width=550&height=280" alt="Report Commits 1 TF1 1 week period"/>
+<img src="https://i.imgur.com/YjIdIGE.png" alt="Report Commits 1 TF1 1 week period"/>
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1255192772017651732/image.png?ex=667c3cdd&is=667aeb5d&hm=5a2c13b2e4898f2c5a089409398b842d146629128195501495db206a3c6db669&=&format=webp&quality=lossless&width=736&height=671" alt="Report Commits 2 TF1"/>
+<img src="https://i.imgur.com/YjIdIGE.png" alt="Report Commits 2 TF1"/>
 
 ---
 
@@ -488,7 +480,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
 <table border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/Camila%20Amaro%20profile%20image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://i.imgur.com/XCjtWCV.jpeg" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -1215,7 +1207,7 @@ Lugar de residencia: Trujillo, Perú
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Juan/entrevista02-Escritor.png?raw=true" alt="Entrevista 02 Segmento escritor">
+<img src="https://i.imgur.com/ttmHDZK.png" alt="Entrevista 02 Segmento escritor">
 
 Enlace de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EVRmfD-tfg9JtW2r5wza-VABSrYWk7KR-Sf5FW3U_UVC1w?e=DMIaa7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -1241,7 +1233,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista: 
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista03-escritor.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+<img src="https://i.imgur.com/vh4bnpV.png" alt="Entrevista 03 Segmento escrito" style="width: 100%;">
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EQ-b5M6dCkJPhEhXzimJ3_4Bi6s4u6Ic1tNvN5cI9fNLqw
 
@@ -1309,7 +1301,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista02-ilustrador.png?raw=true" alt="Entrevista 02 Segmento ilustrador">
+<img src="https://i.imgur.com/tJgfHWB.png" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ER7c3WWPRA5AjihjBObrqGEBXs0lQ9PRBNwEhbDPXaaJxw
 
@@ -1338,7 +1330,7 @@ Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Mathi/entrevista03-ilustrador.png?raw=true" alt="Entrevista 03 Segmento Ilustrador" />
+<img src="https://i.imgur.com/nOJTPqa.png" alt="Entrevista 03 Segmento Ilustrador" />
 
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
@@ -1367,7 +1359,7 @@ Lugar de residencia: Lince, Lima
 
 Evidencia de la entrevista: 
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Juan/entrevista04-ilustrador.png?raw=true" alt="Entrevista 04 Segmento Ilustrador">
+<img src="https://i.imgur.com/mdvOPAC.png" alt="Entrevista 04 Segmento Ilustrador">
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Efqi7BEKkKlPtV7hNpxhlNcByiB_Vk4KdHsDOde4jYFF1Q?e=5uLFgk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -1430,7 +1422,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista: 
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista02-lector.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+<img src="https://i.imgur.com/acrvBgv.png" alt="Entrevista 2 segmento lector" style="width: 100%;">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eap5x4CPEWJKhlziBHlAaRoB5pD_2ptRcT7BhhkS8X8l9w
 
@@ -1457,7 +1449,7 @@ Lugar de residencia: San Miguel, Lima Perú
 Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
- <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Mathi/entrevista03-lector.png?raw=true" alt="Entrevista 03 Segmento Lector"/>
+ <img src="https://i.imgur.com/zCRLSUV.png" alt="Entrevista 03 Segmento Lector"/>
 
 
  Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -1561,9 +1553,9 @@ Evidencia de la entrevista:
   ### 2.3. Needfinding
 
 ### 2.3.1. User Personas.
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942436270171/User-Persona-Autor.png?ex=66354d29&is=6633fba9&hm=3d2a638501ffe1775803bb6296df408090a358463a554e93d2e274450e25a917&"> 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942754775200/User-Persona-Ilustrador.png?ex=66354d2a&is=6633fbaa&hm=e3e02acea9009450e4e1e56eb50d354f705231a1fbdac6c8482e0c949276401d&">
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693994680520704/User-Persona-Lector.png?ex=66354d36&is=6633fbb6&hm=973d04f0e2902467819f0cd772cf048863d624985d363384670e6ef3c3c83c06&">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/user-personas/Luz.png?raw=true"> 
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/user-personas/Alexandra.png?raw=true">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Renzo.png?raw=true">
 
 ### 2.3.2. User Task Matrix
 |                        | Marian Cornwell (Autor) | Javier Pérez (Ilustrador) | Jimena Fuentes (Lectora) |
@@ -1583,9 +1575,9 @@ Evidencia de la entrevista:
 
 ### 2.3.3. User Journey Mapping
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481277841488/journey-map-autor.png?ex=66354f87&is=6633fe07&hm=5892c52ee847c5256123c1c997784d5c0098476a339eb46731c90102772886aa&">
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481600536606/journey-map-ilustrador.png?ex=66354f87&is=6633fe07&hm=eeb0ac56986257c794fed121822b477d392407ff0856f8308ec494e9eb84cabe&">
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481906724925/journey-map-lector.png?ex=66354f87&is=6633fe07&hm=dc61a31298d1b32510dd4c0ea559a9ff2a111e71f68eabece91332dbeb028e07&">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/user-journey-mapping/Persona%201.png?raw=true">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/user-journey-mapping/Persona%202.png?raw=true">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/user-journey-mapping/Persona%202.png?raw=true">
 
 ### 2.3.4. Empathy Mapping
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png?raw=true">
@@ -1635,9 +1627,9 @@ Evidencia de la entrevista:
 
 ## 3.1. To-Be Scenario Mapping.
 <hr>
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235689007929622640/to-be-autor.png?ex=66354891&is=6633f711&hm=2275e26f156a60807bb6fcfc2ce53eb0aa810ebb4eeebc245101687242d865be&">
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688771178074204/to-be-ilustrador.png?ex=66354859&is=6633f6d9&hm=ff0fd52ca41e6fdae9d462c69a4795e8edd003d4e495046abd8859dda2422eb6&">
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688354209857578/to-be-lector.png?ex=663547f5&is=6633f675&hm=d66091a22aa1b42d7d99f5233a0493a166ab62673f4b70283ffc24dc6a8ef519&">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-escritor.jpg?raw=true">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-ilustrador.jpg?raw=true">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-lector.jpg?raw=true">
 
 
 
@@ -1663,9 +1655,9 @@ Evidencia de la entrevista:
 <tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> visualizar una pagina</p>
-<p><>para</> saber acerca de los servicios de la
+<td><p><b>Como</b> Usuario</p>
+<p><b>quiero</b> visualizar una pagina</p>
+<p><b>para</b> saber acerca de los servicios de la
 aplicación</p></td>
 <td><p>Escenario 1: Header</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1680,10 +1672,10 @@ aplicación</p></td>
 <tr class="odd">
 <td>E1-US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> visualizar la sección de footer de la
+<td><p><b>Como</b> Usuario</p>
+<p><b>quiero</b> visualizar la sección de footer de la
 pagina</p>
-<p><>para</> encontrar los links de las redes
+<p><b>para</b> encontrar los links de las redes
 sociales</p></td>
 <td><p>Escenario 1: Footer</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1699,10 +1691,10 @@ perfil de la startup</p></td>
 <tr class="even">
 <td>E1-US03</td>
 <td>Sección de Explora</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> conocer los servicios que ofrece la
+<td><p><b>Como</b> Usuario</p>
+<p><b>quiero</b> conocer los servicios que ofrece la
 aplicación</p>
-<p><>para</> saber las características que ofrece</p></td>
+<p><b>para</b> saber las características que ofrece</p></td>
 <td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
 <p>Cuando se encuentre en la sección Explora</p>
@@ -1713,10 +1705,10 @@ mejores ilustradores</p></td>
 <tr class="odd">
 <td>E1-US04</td>
 <td>Sección Colabora</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> conocer las formas de colaborar con otros
+<td><p><b>Como</b> Usuario</p>
+<p><b>quiero</b> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><>para</> facilitarme el contacto con otros
+<p><b>para</b> facilitarme el contacto con otros
 artistas</p></td>
 <td><p>Escenario 1: Colabora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1733,10 +1725,10 @@ informacion</p></td>
 <tr class="even">
 <td>E1-US05</td>
 <td>Sección Hero</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> visualizar una sección hero donde describa
+<td><p><b>Como</b> Usuario</p>
+<p><b>quiero</b> visualizar una sección hero donde describa
 brevemente la misión de la startup</p>
-<p><>para</> tener una idea de lo que ofrece la
+<p><b>para</b> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td><p>Escenario 1: Hero</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1752,9 +1744,9 @@ pertenecer a la comunidad</p>
 <tr class="odd">
 <td>E2-US06</td>
 <td>Asignación de Rol</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> poder asignarle un rol</p>
-<p><>para</> poder visualizar la página</p></td>
+<td><p><b>Como</b> lector</p>
+<p><b>quiero</b> poder asignarle un rol</p>
+<p><b>para</b> poder visualizar la página</p></td>
 <td><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
 <p>Dado que el usuario se encuentra logeado en la página </p>
 <p>Cuando se desplace le aparecerá una ventana para que elija un rol
@@ -1775,9 +1767,9 @@ al rol que haya escogido con nuevas herramientas.</p></td>
 <tr class="even">
 <td>E2-US07</td>
 <td>Configuración de Perfil del Usuario</td>
-<td><p><>Como</> lector, artista o escritor</p>
-<p><>quiero</> configurar mi perfil</p>
-<p><>para</> satisfacer mis gustos</p></td>
+<td><p><b>Como</b> lector, artista o escritor</p>
+<p><b>quiero</b> configurar mi perfil</p>
+<p><b>para</b> satisfacer mis gustos</p></td>
 <td><p>Escenario 1: Ingresar al perfil</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de click en su perfil</p>
@@ -1792,9 +1784,9 @@ portafolio</p></td>
 <tr class="odd">
 <td>E3-US08</td>
 <td>Sube tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> una plataforma</p>
-<p><>para</> subir mis libros</p></td>
+<td><p><b>Como</b> escritor</p>
+<p><b>quiero</b> una plataforma</p>
+<p><b>para</b> subir mis libros</p></td>
 <td><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
@@ -1808,9 +1800,9 @@ portafolio</p></td>
 <tr class="even">
 <td>E3-US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> que mis obras sean ilustradas</p>
-<p><>para</> mejorarlas</p></td>
+<td><p><b>Como</b> escritor</p>
+<p><b>quiero</b> que mis obras sean ilustradas</p>
+<p><b>para</b> mejorarlas</p></td>
 <td><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -1829,9 +1821,9 @@ ilustradores</p>
 <tr class="odd">
 <td>E4-US10</td>
 <td>Destaca tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> destacar mis libros</p>
-<p><>para</> tener más vistas</p></td>
+<td><p><b>Como</b> escritor</p>
+<p><b>quiero</b> destacar mis libros</p>
+<p><b>para<b/> tener más vistas</p></td>
 <td><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -1852,9 +1844,9 @@ obra</p></td>
 <tr class="even">
 <td>E4-US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> generar ingresos</p>
-<p><>para</> mejorar mis libros</p></td>
+<td><p><b>Como</b> escritor</p>
+<p><b>quiero</b> generar ingresos</p>
+<p><b>para</b> mejorar mis libros</p></td>
 <td><p>Escenario 1:  Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
@@ -1875,10 +1867,10 @@ obra</p></td>
 <tr class="odd">
 <td>E5-US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener una gran cantidad de géneros literarios
+<td><p><b>Como</b> lector</p>
+<p><b>quiero</b> tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><>para</> tener una gran variedad de opciones a elegir
+<p><b>para</b> tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
@@ -1894,10 +1886,10 @@ etc.</p></td>
 <tr class="even">
 <td>E5-US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener acceso al contenido exclusivo de la
+<td><p><b>Como</b> lector</p>
+<p><b>quiero</b> tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><>para</> contar con más capítulos a mi
+<p><b>para</b> contar con más capítulos a mi
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal </p>
@@ -1917,9 +1909,9 @@ clic en desbloquear</p>
 <tr class="odd">
 <td>E5-US14</td>
 <td>Dejar Comentarios</td>
-<td><p><>Como</> lector, escritor e ilustrador</p>
-<p><>quiero</> poder comentar las obras</p>
-<p><>para</> ayudar a otros usuarios brindándoles un
+<td><p><b>Como</b> lector, escritor e ilustrador</p>
+<p><b>quiero</b> poder comentar las obras</p>
+<p><b>para</b> ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td><p>Escenario 1: Escoge el libro</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
@@ -1934,10 +1926,10 @@ feedback</p></td>
 <tr class="even">
 <td>E6-US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> contar con una monetización por mis
+<td><p><b>Como</b> ilustrador</p>
+<p><b>quiero</b> contar con una monetización por mis
 ilustraciones</p>
-<p><>para</> poder percibir ingresos dentro de la
+<p><b>para</b> poder percibir ingresos dentro de la
 aplicación</p></td>
 <td><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
@@ -1954,10 +1946,10 @@ externa</p>
 <tr class="odd">
 <td>E6-US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> tener flexibilidad creativa a la hora de
+<td><p><b>Como</b> ilustrador</p>
+<p><b>quiero</b> tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><>para</> tener un mejor rendimiento</p></td>
+<p><b>para</b> tener un mejor rendimiento</p></td>
 <td><p>Escenario 1: Añade Flexibilidad</p>
 <p>Dado que el ilustrador se encuentra en la página principal</p>
 <p>Cuando le dé clic a perfil</p>
@@ -1978,9 +1970,9 @@ creativa</p></td>
 <tr class="odd">
 <td>E1-US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><>Como</> usuario interesado en el producto</p>
-<p><>quiero</> que la landing page sea responsive</p>
-<p><>para</> tener un navegacion fluida y accesible</p></td>
+<td><p><b>Como</b> usuario interesado en el producto</p>
+<p><b>quiero</b> que la landing page sea responsive</p>
+<p><b>para</b> tener un navegacion fluida y accesible</p></td>
 <td><p>Escenario 1: Ingresa desde una computadora</p>
 <p>Dado que el usuario se encuentra navegando en una computadora</p>
 <p>Cuando ingrese a la Landing page</p>
@@ -2004,9 +1996,9 @@ Y que se pueda interactuar correctamente con el touch.</p></td>
 <tr class="odd">
 <td>E1-US18</td>
 <td>Accesibilidad  en el Landing page</td>
-<td><p><>Como</> usuario que tiene una discapacidad </p>
-<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><>para</> navegar de forma fluida 
+<td><p><b>Como</b> usuario que tiene una discapacidad </p>
+<p><b>quiero</b> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><b>para</b> navegar de forma fluida 
 y conocer su aplicación sin impedimentos</p></td>
 <td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
 <p>Dado que el usuario se encuentra en el landing page</p>
@@ -2027,9 +2019,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td><p><b>Como</b> desarrollador</p>
+<p><b>quiero</b> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><b>para</b> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 
 <td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
 <p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
@@ -2049,9 +2041,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td><p><b>Como</b> desarrollador</p>
+<p><b>quiero</b> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><b>para</b> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 
 <td><p>Escenario 1: Suscribirse</p>
 <p>Dado que el usuario Inicia sesión en la aplicación.</p>
@@ -2075,9 +2067,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US21</td>
 <td>Uso de API para compartir libros en redes sociales</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td><p><b>Como</b> desarrollador</p>
+<p><b>quiero</b> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><b>para</b> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
 
 <td><p>Escenario 1: Compartir en Facebook</p>
 <p>Dado que el usuario está en la página del libro que desea compartir..</p>
@@ -2108,9 +2100,9 @@ y elije la red la red social Twitter.
 <tr class="odd">
 <td>E8-US22</td>
 <td>Uso de IAM dentro de la API</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar IAM dentro la API</p>
-<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
+<td><p><b>Como</b> desarrollador</p>
+<p><b>quiero</b> integrar IAM dentro la API</p>
+<p><b>para</b> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
 
 <td><p>Escenario 1: Inicio de sesión, por medio de la API, por parte de usuario administrador</p>
 <p>Dado que el usuario está en la página de inicio de sesión.</p>
@@ -2138,9 +2130,9 @@ y elije la red la red social Twitter.
 <tr class="odd">
 <td>E8-US23</td>
 <td>Uso de JSON web token para uso de la API</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
-<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+<td><p><b>Como</b> desarrollador</p>
+<p><b>quiero</b> integrar el uso de JSON web token dentro la API</p>
+<p><b>para</b> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
 
 <td><p>Escenario 1: Realización de consultas a la API</p>
 <p>Dado que el usuario se encuentra dentro del aplicativo.</p>
@@ -2165,13 +2157,14 @@ y elije la red la red social Twitter.
 <hr>
 
 ## 3.3. Impact Mapping.
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953167159426/impact-map-1.png?ex=66354796&is=6633f616&hm=064e77faa549a1336e9cef711aa0fe7414502039857e1d3e5ea68bbaa16f60f6&" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953494442125/impact-map-2.png?ex=66354796&is=6633f616&hm=0175959a5b3883cd0f551381328ce67e82bb950d6fdee9b9e802ba42645e9702&" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687952781148222/impact-map-3.png?ex=66354795&is=6633f615&hm=87521804d956fe5a8408e3e6b05a403051b429fb631b90844e787dfb4c2d0756&" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/Impactmap1O.png?raw=true&" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/Impactmap2O.png?raw=true" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/raw/develop/assets/images/Impactmap3O.png?raw=true" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
 <hr>
 
 ## 3.4. Product Backlog.
 https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF56/mi-tablero-de-trello
+
 <table>
 <colgroup>
 <col style="width: 13%" />
@@ -2196,9 +2189,9 @@ https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF5
 <td>1</td>
 <td>US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><>Como</> escritor o lector</p>
-<p><>quiero</> visualizar una pagina</p>
-<p><>para</> saber acerca de los servicios de la
+<td><p><strong>Como</strong> escritor o lector</p>
+<p><strong>quiero</strong> visualizar una pagina</p>
+<p><strong>para</strong> saber acerca de los servicios de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2207,10 +2200,10 @@ aplicación</p></td>
 <td>2</td>
 <td>US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> visualizar la sección de footer de la
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> visualizar la sección de footer de la
 pagina</p>
-<p><>para</> encontrar los links de las redes
+<p><strong>para</strong> encontrar los links de las redes
 sociales</p></td>
 <td>Baja</td>
 <td>1</td>
@@ -2219,10 +2212,10 @@ sociales</p></td>
 <td>3</td>
 <td>US03</td>
 <td>Sección de Conócenos</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> conocer los servicios que ofrece la
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> conocer los servicios que ofrece la
 aplicación</p>
-<p><>para</> saber las características que ofrece</p></td>
+<p><strong>para</strong> saber las características que ofrece</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2230,10 +2223,10 @@ aplicación</p>
 <td>4</td>
 <td>US04</td>
 <td>Sección Colabora</td>
-<td><p><>Como</> escritor o ilustrador</p>
-<p><>quiero</> conocer las formas de colaborar con otros
+<td><p><strong>Como</strong> escritor o ilustrador</p>
+<p><strong>quiero</strong> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><>para</> facilitarme el contacto con otros
+<p><strong>para</strong> facilitarme el contacto con otros
 artistas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2242,10 +2235,10 @@ artistas</p></td>
 <td>5</td>
 <td>US05</td>
 <td>Sección Hero</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> visualizar una sección hero donde describa
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> visualizar una sección hero donde describa
 brevemente la misión del startup</p>
-<p><>para</> tener una idea de lo que ofrece la
+<p><strong>para</strong> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2253,190 +2246,230 @@ aplicación</p></td>
 <tr class="even">
 <td>6</td>
 <td>US06</td>
-<td>Asignación de Rol</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> poder asignarle un rol</p>
-<p><>para</> poder visualizar la página</p></td>
+<td>Registro de cuentas</td>
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> registrarme en la aplicación</p>
+<p><strong>para</strong> acceder a sus funcionalidades</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>7</td>
 <td>US07</td>
-<td>Configuración de Perfil de Usuario</td>
-<td><p><>Como</> lector, artista o escritor</p>
-<p><>quiero</> configurar mi perfil</p>
-<p><>para</> satisfacer mis gustos</p></td>
+<td>Inicio de sesión</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> iniciar sesión con mi cuenta</p>
+<p><strong>para</strong> acceder a las funcionalidades de la aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>8</td>
 <td>US08</td>
-<td>Sube tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> una plataforma</p>
-<p><>para</> subir mis libros</p></td>
+<td>Recuperar contraseña</td>
+<td><p><strong>Como</strong>  lector, ilustrador o escritor</p>
+<p><strong>quiero</strong>recuperar la contraseña de mi cuenta</p>
+<p><strong>para</strong>  poder iniciar sesión en la aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>9</td>
 <td>US09</td>
-<td>Colaboración con Ilustradores</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> que mis obras sean ilustradas</p>
-<p><>para</> mejorarlas</p></td>
-<td>Media</td>
-<td>2</td>
+<td>Toolbar de navegación</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> visualizar una toolbar con links de navegación</p>
+<p><strong>para</strong> navegar por la aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="even">
 <td>10</td>
 <td>US10</td>
-<td>Destaca tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> destacar mis libros</p>
-<p><>para</> tener más vistas</p></td>
-<td>Media</td>
-<td>2</td>
+<td>Asignación de Rol</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> poder asignarle un rol</p>
+<p><strong>para</strong> poder visualizar la página</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="odd">
 <td>11</td>
 <td>US11</td>
-<td>Reparto por Ingresos publicitarios</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> generar ingresos</p>
-<p><>para</> mejorar mis libros</p></td>
+<td>Configuración de Perfil de Usuario</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> configurar mi perfil</p>
+<p><strong>para</strong> satisfacer mis gustos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>12</td>
 <td>US12</td>
-<td>Diversos géneros literarios</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener una gran cantidad de géneros literarios
-a mi disposición</p>
-<p><>para</> tener una gran variedad de opciones a elegir
-para mis lecturas</p></td>
+<td>Sube tus libros</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> una plataforma</p>
+<p><strong>para</strong> subir mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>13</td>
 <td>US13</td>
-<td>Desbloqueo de Capítulos</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener acceso al contenido exclusivo de la
-plataforma</p>
-<p><>para</> contar con más capítulos a mi
-disposición</p></td>
-<td>Alta</td>
-<td>3</td>
+<td>Colaboración con Ilustradores</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> que mis obras sean ilustradas</p>
+<p><strong>para</strong> mejorarlas</p></td>
+<td>Media</td>
+<td>2</td>
 </tr>
 <tr class="even">
 <td>14</td>
 <td>US14</td>
-<td>Dejar Comentarios</td>
-<td><p><>Como</> lector, escritor e ilustrador</p>
-<p><>quiero</> poder comentar las obras</p>
-<p><>para</> ayudar a otros usuarios brindándoles un
-feedback</p></td>
-<td>Alta</td>
-<td>3</td>
+<td>Destaca tus libros</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> destacar mis libros</p>
+<p><strong>para</strong> tener más vistas</p></td>
+<td>Media</td>
+<td>2</td>
 </tr>
 <tr class="odd">
 <td>15</td>
 <td>US15</td>
-<td>Ingreso por las ilustraciones</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> contar con una monetización por mis
-ilustraciones</p>
-<p><>para</> poder percibir ingresos dentro de la
-aplicación</p></td>
+<td>Reparto por Ingresos publicitarios</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> generar ingresos</p>
+<p><strong>para</strong> mejorar mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>16</td>
 <td>US16</td>
-<td>Flexibilidad al ilustrar</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> tener flexibilidad creativa a la hora de
-dibujar</p>
-<p><>para</> tener un mejor rendimiento</p></td>
+<td>Diversos géneros literarios</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+a mi disposición</p>
+<p><strong>para</strong> tener una gran variedad de opciones a elegir
+para mis lecturas</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
-  <tr class="odd">
+<tr class="odd">
 <td>17</td>
 <td>US17</td>
-<td>Compatibilidad con diferentes dispositivos</td>
-<td><p><>Como</> usuario interesado en el producto</p>
-<p><>quiero</> que la landing page sea responsive</p>
-<p><>para</> tener un navegacion fluida y accesible</p></td>
+<td>Desbloqueo de Capítulos</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+plataforma</p>
+<p><strong>para</strong> contar con más capítulos a mi
+disposición</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>18</td>
 <td>US18</td>
-<td>Accesibilidad en el Landing page</td>
-<td><p><>Como</> usuario que tiene una discapacidad</p>
-<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><>para</> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
-<td>Alta</td>
-<td>3</td>
-</tr>
-  <tr class="odd">
-<td>19</td>
-<td>US19</td>
-<td>Uso de API para el inicio de sesión</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
-<td>Alta</td>
-<td>3</td>
-</tr>
-  <tr class="even">
-<td>20</td>
-<td>US20</td>
-<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td>Dejar Comentarios</td>
+<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
+<p><strong>quiero</strong> poder comentar las obras</p>
+<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+feedback</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Ingreso por las ilustraciones</td>
+<td><p><strong>Como</strong> ilustrador</p>
+<p><strong>quiero</strong> contar con una monetización por mis
+ilustraciones</p>
+<p><strong>para</strong> poder percibir ingresos dentro de la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>US20</td>
+<td>Flexibilidad al ilustrar</td>
+<td><p><strong>Como</strong> ilustrador</p>
+<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+dibujar</p>
+<p><strong>para</strong> tener un mejor rendimiento</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="odd">
 <td>21</td>
 <td>US21</td>
-<td>Uso de API para compartir libros en redes sociales	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
-<td>Media</td>
-<td>4</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><strong>Como</strong> usuario interesado en el producto</p>
+<p><strong>quiero</strong> que la landing page sea responsive</p>
+<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="even">
 <td>22</td>
 <td>US22</td>
-<td>Uso de IAM dentro de la API	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar IAM dentro la API</p>
-<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
+<td>Accesibilidad en el Landing page</td>
+<td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><strong>para</strong> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
 <td>Alta</td>
-<td>5</td>
+<td>3</td>
 </tr>
-<tr class="even">
+  <tr class="odd">
 <td>23</td>
 <td>US23</td>
-<td>Uso de JSON web token para uso de la API	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
-<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 <td>Alta</td>
-<td>2</td>
+<td>3</td>
+</tr>
+  <tr class="even">
+<td>24</td>
+<td>US24</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="odd">
+<td>25</td>
+<td>US25</td>
+<td>Uso de API para compartir libros en redes sociales</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>26</td>
+<td>US26</td>
+<td>Autenticación y autorización seguras para administradores con JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador,</p>
+<p><strong>quiero</strong> poder autenticarme de manera segura en la API utilizando jwt,</p>
+<p><strong>para</strong> acceder y administrar los recursos protegidos por la API de manera segura.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>US27</td>
+<td>Consultas seguras de administradores a la API utilizando JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador del sistema,</p>
+<p><strong>quiero</strong> poder realizar consultas seguras a la API utilizando mi JWT con esquema Bearer,</p>
+<p><strong>para</strong> acceder y modificar datos según mis permisos y roles asignados.</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
@@ -2608,38 +2641,19 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 
 Versión Desktop:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235652421384933447/Hero.png?ex=6635267e&is=6633d4fe&hm=923194a2e636b7c91991290154c6c6562df8f20a5e30010f4c56f9bc9c5ab099&=&format=webp&quality=lossless&width=720&height=495" alt="Landing Page Hero Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651393826586634/DESCUBRE.png?ex=66352589&is=6633d409&hm=f03569ad2db9ada3858e3fe48248fb5a80c1443a88585b930762c68331d3f892&=&format=webp&quality=lossless&width=399&height=597" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651418723975198/COLABORA.png?ex=6635258f&is=6633d40f&hm=7f4288ffddd8a6d05e6971bf625041fe6ce40ff811625fd553a77ddc8fa8a26a&=&format=webp&quality=lossless&width=491&height=597" alt="Landing Page COLABORA Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651442019139695/Footer.png?ex=66352595&is=6633d415&hm=08242b425f1a92f41eaa35e5a82aa85a5013fa20a8f0774bca549c5ab08f696a&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Footer Wireframe">
+<img src="https://i.imgur.com/jCcuhid.png" alt="Landing Page Hero Wireframe">
+<img src="https://i.imgur.com/qOEsXqf.png" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://i.imgur.com/9xKy9KA.png" alt="Landing Page COLABORA Wireframe">
+<img src="https://i.imgur.com/NqeVSJ6.png" alt="Landing Page Footer Wireframe">
 
-Versión Mobile:
-
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651541092925600/Hero-Mobile.png?ex=663525ac&is=6633d42c&hm=aa76fca0742780e647f8b61df210b39ec4a46baeda189309212cc81a082385b8&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651586437546035/DESCUBRE-Mobile.png?ex=663525b7&is=6633d437&hm=75134f13fb2cbb450126bbbe9a5a57c033063f443cb465d7ca8b06ec0dc765e0&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651612735705250/COLABORA-Mobile.png?ex=663525bd&is=6633d43d&hm=6585ad925c4c6ffb6ff607222d45174978ac1d778e1588e6b74a2f500980a1e5&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651642834292886/Footer-Mobile.png?ex=663525c4&is=6633d444&hm=527f1c01f06a3b835ee01dfe78e8b08ec0000f62beed00ed2084a53ef2ed4c81&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer Wireframe">
 
 ### 4.3.2. Landing Page Mockup.
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=663527dc&is=6633d65c&hm=cd960b77b2404b41bca68e03ddbb1d8e73dc5df64187a9175474ac8005c2b20e&=&format=webp&quality=lossless&width=509&height=350" alt="Landing Page Desktop Hero">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=66352821&is=6633d6a1&hm=3d9ad2994d327be7ff94d7faaccd52a46a141a71a76678427cb697f725b8414c&=&format=webp&quality=lossless&width=234&height=350" alt="Landing Page Desktop DESCUBRE">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=66352823&is=6633d6a3&hm=528ff1e37f18d0d5aaf32e91c0e2bf9203bf08da489b6d44b95bb694ba3c0805&=&format=webp&quality=lossless&width=288&height=350" alt="Landing Page Desktop COLABORA">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=66352827&is=6633d6a7&hm=a67a0d6c83c6bb818edafa3f7fab8b4852080e274a344635fa513b546a5578ce&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Desktop Footer">
-
-Versión Mobile:
-
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=66352833&is=6633d6b3&hm=987f2a01a3c906a3e577056e3f13823d92a996214308da33abcdb28461f7f48a&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=66352837&is=6633d6b7&hm=6a57a3b4a89a815809f3cf242af959a6561f842cbaa117920023f04e42c378da&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=6635283b&is=6633d6bb&hm=28e789b91f9d7b06db5b30fa78852b7efb55922b7e7f549cf997250417c0f2ed&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
+<img src="https://i.imgur.com/V2lRUQy.png" alt="Landing Page Desktop Hero">
+<img src="https://i.imgur.com/ZqGV6vG.png" alt="Landing Page Desktop DESCUBRE">
+<img src="https://i.imgur.com/rmDg5GG.png" alt="Landing Page Desktop COLABORA">
+<img src="https://i.imgur.com/UMc0hgR.png" alt="Landing Page Desktop Footer">
 
 ## 4.4. Web Applications UX/UI Design
 Esta sección incluye secciones internas donde presentamos la propuesta visual y de interacción para nuestra web application, considerando la experiencia de usuario con el producto.
@@ -2648,49 +2662,10 @@ Esta sección incluye secciones internas donde presentamos la propuesta visual y
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
 #### Wireframes de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654741099544576/Generos.png?ex=663528a7&is=6633d727&hm=b1d0794f30d60b0d5998ce27cf5b53ceddb2cacdb1f809ca40e2ca4cfc031877&=&format=webp&quality=lossless&width=865&height=1002" alt="Web App Desktop Generos">
-
-#### Wireframes de la sección Populares
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654728592130068/Populares.png?ex=663528a4&is=6633d724&hm=f9c54739a7cca53e97e5f1230d775a89c2249c43d8b781784c27bda765788dab&=&format=webp&quality=lossless&width=861&height=1002" alt="Web App Desktop Populares">
-
-#### Wireframes de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654705385046146/Suscripciones.png?ex=6635289f&is=6633d71f&hm=eaa0c32eebd68f23f6445687cf937a82923ff60cc274f85b860189a2894b2ccc&=&format=webp&quality=lossless&width=1920&height=930" alt="Web App Desktop Suscripciones">
-
-#### Wireframes de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654692449816730/Monetizacion.png?ex=6635289c&is=6633d71c&hm=f6e9ae61b9b5b5add851f336286808ce9121e2b781788295bd7b20493a12c5da&=&format=webp&quality=lossless&width=756&height=1002" alt="Web App Desktop artistas monetización">
-
-#### Wireframes de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654680588058644/Artistas.png?ex=66352899&is=6633d719&hm=d4bccda0eef038c37ff2c78eb687212f610f45f15f4ff9535db3c379b9241537&=&format=webp&quality=lossless&width=627&height=1002" alt="Web App Desktop Artistas">
 
 #### Wireframes de la sección inicio de sesión
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
-#### Wireframes de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659313616261211/registro-web-app.png?ex=66352ce9&is=6633db69&hm=0afe9beac582f05e5d9a1267d0578a1e5dc344bf064ae113069a66cd6ff80723&=&format=webp&quality=lossless&width=1920&height=934" alt="Web App Desktop Registro">
-
-#### Wireframes de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659230418042891/recuperar-contrasena.png?ex=66352cd5&is=6633db55&hm=e9044c6c27fc3910ec7cb4cf642aa534d22e5d8981b0141fba679b8579c81547&=&format=webp&quality=lossless&width=1920&height=933" alt="Web App Desktop Recuperar contraseña">
-
-#### Wireframes de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659242917204060/perfiles.png?ex=66352cd8&is=6633db58&hm=06477de0575258bd5f7e30c9a744b8f55c4ea7e8e3d916e18d1425ec87528781&=&format=webp&quality=lossless&width=1705&height=1002" alt="Web App Desktop Perfiles">
-
-#### Wireframes de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659253956481044/chat-artista.png?ex=66352cdb&is=6633db5b&hm=18627e23387f30acde77bd444d41db4af7c051d603618b6ff78636678e891648&=&format=webp&quality=lossless&width=1920&height=868" alt="Web App Desktop Chat artista">
-
-#### Wireframes de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659263473483940/historia.png?ex=66352cdd&is=6633db5d&hm=c8e278cad00e7fdc5278887e8c360fa88d8c8c4cfa32dbeaed34ff47f2e650dd&=&format=webp&quality=lossless&width=1759&height=1002" alt="Web App Desktop Historia">
-
-#### Wireframes de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659276538613760/publicar-libro.png?ex=66352ce0&is=6633db60&hm=5a53677cca9eb408f090cb5dea9b3cd064f88513555343e23ae0ce40b154f1c1&=&format=webp&quality=lossless&width=1920&height=766" alt="Web App Desktop Publicar libro">
-
-#### Wireframes de la sección editar historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659284423905300/Editar-detalles-historia.png?ex=66352ce2&is=6633db62&hm=71aed3128acf03fa052418f08a5f41da7a6972c9de19597a74534acd57e1214a&=&format=webp&quality=lossless&width=1920&height=559" alt="Web App Desktop Editar historia">
-
-#### Wireframes de la sección editar perfil escritor/lector
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659293416620142/Editar-perfil-lector-escritor.png?ex=66352ce4&is=6633db64&hm=ec6b3585fbb8ae61c06d8f51bce44176f0387ec295cfac24346f21c2eff95a1f&=&format=webp&quality=lossless&width=1920&height=780" alt="Web App Desktop Editar perfil">
-
-#### Wireframes de la sección editar perfil artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659303969488966/Editar-perfil-ilustrador.png?ex=66352ce7&is=6633db67&hm=081afb78ffe1070c8893954487fe810debd06d7f691ac527faac2b6595bc00ec&=&format=webp&quality=lossless&width=1488&height=1002" alt="Web App Desktop Editar artista">
 
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=151%3A467&mode=design&t=UfHDditQXtCzv4qd-1
 
@@ -2778,100 +2753,19 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 
 ### Mock-ups versión Desktop:
 #### Mock-ups de la página principal
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657428088131595/Pagina-principal.png?ex=66352b28&is=6633d9a8&hm=f96d772a5b0048e7fdfe1a0cf87da26672eb14f8225eef05c5bb845ec64bc931&=&format=webp&quality=lossless&width=720&height=308" alt="Web App Page Desktop Main page">
+<img src="https://i.imgur.com/t0tQvYE.png" alt="Web App Desktop Generos">
 
-#### Mock-ups de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657452565827696/Generos.png?ex=66352b2e&is=6633d9ae&hm=f0052557e2d40bf0fce243f79d427b1e649b9bb0531019f52235455a7f4a893f&=&format=webp&quality=lossless&width=517&height=603" alt="Web App Desktop Generos">
+#### Wireframes de la sección Populares
+<img src="https://i.imgur.com/WHoFnwo.png" alt="Web App Desktop Populares">
 
-#### Mock-ups de la sección Populares
-<img src="[https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Populares.png?raw=true](https://media.discordapp.net/attachments/1235639705157107719/1235657473147408458/Populares.png?ex=66352b33&is=6633d9b3&hm=72c7164e8b1649e50ecd74669a85a1d43902c38c2bbcdeecc1b0550f65b00470&=&format=webp&quality=lossless&width=516&height=603)" alt="Web App Desktop Populares">
+#### Wireframes de la sección Suscripciones
+<img src="https://i.imgur.com/aTjUpUf.png" alt="Web App Desktop Suscripciones">
 
-#### Mock-ups de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657490109038682/Suscripciones.png?ex=66352b37&is=6633d9b7&hm=b024ec3f83e2233c5a21d8a6afc20f61ab79344ab7eccfc37c33a0f6d7abd59a&=&format=webp&quality=lossless&width=720&height=385" alt="Web App Desktop Suscripciones">
+#### Wireframes de la sección Monetización
+<img src="https://i.imgur.com/frceiTQ.png" alt="Web App Desktop artistas monetización">
 
-#### Mock-ups de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657505338822666/Monetizacion.png?ex=66352b3a&is=6633d9ba&hm=6c831aad9184b321797b28c15599225d6f3ef5a10f515d3ee6542a36d2120636&=&format=webp&quality=lossless&width=456&height=602" alt="Web App Desktop artistas monetización">
-
-#### Mock-ups de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657523587977236/Artistas.png?ex=66352b3f&is=6633d9bf&hm=ba3120bd8dcb1ef7f278f3ae72624841f3be788a113213ada7bef0d7eafe6f14&=&format=webp&quality=lossless&width=221&height=350" alt="Web App Desktop Artistas">
-
-#### Mock-ups de la sección inicio de sesión
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657545465466964/iniciar-sesion-web.png?ex=66352b44&is=6633d9c4&hm=5054ee3e03999cff2bea0edc6329bd126f9f1a14444400d3dba2e3f5be14f1fa&=&format=webp&quality=lossless&width=481&height=350" alt="Web App Desktop Inicio de sesión">
-
-#### Mock-ups de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657561034981446/registro-web-app.png?ex=66352b47&is=6633d9c7&hm=e63b89c51dc5f3223ef152e1156da0cf56e49fed89ffcfd31fa3588d3954b4fa&=&format=webp&quality=lossless&width=720&height=357" alt="Web App Desktop Registro">
-
-#### Mock-ups de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657587354112000/recuperar-contraseC3B1a.png?ex=66352b4e&is=6633d9ce&hm=382a5b691c8b405a4ad37184ffe410abeb46b86f63751b8277a2a9bd5de5c6b6&=&format=webp&quality=lossless&width=550&height=272" alt="Web App Desktop Recuperar contraseña">
-
-#### Mock-ups de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657604341170176/perfiles.png?ex=66352b52&is=6633d9d2&hm=2a2f365a7a05b723f6b659ac910c16a8f0e1f4ff3f2c7ceea94f17274ac1bbe8&=&format=webp&quality=lossless&width=550&height=311" alt="Web App Desktop Perfiles">
-
-#### Mock-ups de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657622372356177/chat-artista.png?ex=66352b56&is=6633d9d6&hm=c7bd643713399f67ebe81a94a1ecbe1560d78f9fe4ad8b5262e31ec5049de8d2&=&format=webp&quality=lossless&width=720&height=326" alt="Web App Desktop Chat artista">
-
-#### Mock-ups de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657645185306645/historia.png?ex=66352b5c&is=6633d9dc&hm=48d80ade29f57e68a8b5488eafed8edbd76dc7ace8b89d15364a272e6f85d003&=&format=webp&quality=lossless&width=550&height=304" alt="Web App Desktop Historia">
-
-#### Mock-ups de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657660762947646/publicar-libro.png?ex=66352b5f&is=6633d9df&hm=3e0d0617e7872c4f84f38eca073ec860d58410a8cc8e42ddb137a7293968fa9e&=&format=webp&quality=lossless&width=550&height=218" alt="Web App Desktop Publciar libro">
-
-#### Mock-ups de la sección editar historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235658744004743290/Editar-detalles-historia.png?ex=66352c62&is=6633dae2&hm=40e77e55f3e7e16d8ec1c34ea34447be45c4771c4dc8502f627c278334939468&=&format=webp&quality=lossless&width=720&height=207" alt="Web App Desktop Editar historia">
-
-#### Mock-ups de la sección editar perfil escritor/lector
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657677359808512/Editar-perfil-lector-escritor.png?ex=66352b63&is=6633d9e3&hm=7abb415af8ca32a0d14785c3d56a1d020ad5137e5446187fda8918446e90d273&=&format=webp&quality=lossless&width=720&height=286" alt="Web App Desktop Editar perfil">
-
-#### Mock-ups de la sección editar perfil artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657694375837726/Editar-perfil-ilustrador.png?ex=66352b67&is=6633d9e7&hm=d8210ee69db2efc9cf93981a7aa10732c935c6de228e6b088837d8563fb267c6&=&format=webp&quality=lossless&width=511&height=350" alt="Web App Desktop Editar artista">
-
-<br>
-
-### Mock-ups versión Mobile:
-
-#### Mock-ups de la página principal
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660665000165446/Pagina-principal.png?ex=66352e2c&is=6633dcac&hm=ab460797cfe03bdb9e95b5bf88b9eb4213bf926cb5b9495d922df3e5bc6acdb7&=&format=webp&quality=lossless&width=681&height=662" alt="Web App Page Desktop Main page">
-
-#### Mock-ups de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660689922723871/Generos.png?ex=66352e31&is=6633dcb1&hm=5790eb1b8314567b8e82804e9afc12af1de27acb8afbd972831d225c1f8ca136&=&format=webp&quality=lossless&width=325&height=437" alt="Web App Desktop Generos">
-
-#### Mock-ups de la sección Populares
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660715256320083/Populares.png?ex=66352e37&is=6633dcb7&hm=82570a4310da08f14cca33f776266cc451c5b40b92ec356bdf9669955d92fb69&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop Populares">
-
-#### Mock-ups de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660734231478272/Suscripciones.png?ex=66352e3c&is=6633dcbc&hm=2c42727ade68fa085bdae792d444c82d9207d200fe8a404e39a6bd83501e9eb8&=&format=webp&quality=lossless&width=365&height=437" alt="Web App Desktop Suscripciones">
-
-#### Mock-ups de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660749775573023/Monetizacion.png?ex=66352e40&is=6633dcc0&hm=eecfaaf58e2410dad98fca0b5360836f9198df08123b277efd80478df826a3a2&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop artistas monetización">
-
-#### Mock-ups de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660771942207558/Artistas.png?ex=66352e45&is=6633dcc5&hm=c1842b02717fe18370a1b7c16a1312b3170def355f3c613cc4563e8a13dc3177&=&format=webp&quality=lossless&width=440&height=437" alt="Web App Desktop Artistas">
-
-#### Mock-ups de la sección inicio de sesión
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660790430961714/iniciar-sesion-web.png?ex=66352e49&is=6633dcc9&hm=0ed16aead1a79f20967b154e2689965452fa4734097c73287caaa9d430df881d&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Inicio de sesión">
-
-#### Mock-ups de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660813994561586/registro-web-app.png?ex=66352e4f&is=6633dccf&hm=b0a70cc8d686375426370d9996733b99ea248febfac483afac649e22a6d83ea0&=&format=webp&quality=lossless&width=492&height=662" alt="Web App Desktop Registro">
-
-#### Mock-ups de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660830293622835/recuperar-contraseC3B1a.png?ex=66352e53&is=6633dcd3&hm=c1ae92a5cf0a41de15d5c5cc0e16dcc70817312b0f049531a266c1cc906f4c01&=&format=webp&quality=lossless&width=340&height=437" alt="Web App Desktop Recuperar contraseña">
-
-#### Mock-ups de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660852301140118/perfiles.png?ex=66352e58&is=6633dcd8&hm=47be79726d21f961ac0c131aed99286e5a32965883758f168a1f2b06889c8d01&=&format=webp&quality=lossless&width=633&height=437" alt="Web App Desktop Perfiles">
-
-#### Mock-ups de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660871066325105/chat-artista.png?ex=66352e5d&is=6633dcdd&hm=5c1b922fb81867fd7896b163efc1480ae6e626690cc97827f6cff31025cb833b&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Chat artista">
-
-#### Mock-ups de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660889773047909/historia.png?ex=66352e61&is=6633dce1&hm=49ab205df8fb91876996d0c5e740e3f17d07c5a5d5ff20bc9cd5e0f3fd8cef1b&=&format=webp&quality=lossless&width=356&height=437" alt="Web App Desktop Historia">
-
-#### Mock-ups de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660906373972061/publicar-libro.png?ex=66352e65&is=6633dce5&hm=754f3cb0ea07d6303de2ca8cdf56dcb1d4253cc794f7f18e828a341976d87412&=&format=webp&quality=lossless&width=318&height=437" alt="Web App Desktop Publciar libro">
-
-
-#### Mock-ups de la sección editar cuenta
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660926523277362/Editar-cuenta.png?ex=66352e6a&is=6633dcea&hm=4fa018a103537f0fa1d59266cabe43a1f4f231883e31ea0ae53b71ebbefe730a&=&format=webp&quality=lossless&width=537&height=662" alt="Web App Desktop Editar perfil">
-
+#### Wireframes de la sección Artistas
+<img src="https://i.imgur.com/lKbbH20.png" alt="Web App Desktop Artistas">
 
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
@@ -2998,33 +2892,15 @@ Timing: 8:54
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392330539405503/structurizr-90530-Contexto.png?ex=6675b012&is=66745e92&hm=b5591ea5effacd4311c4185c5fb8a8c44fddb3bfba423b6f0d00cd99e39039a6&=&format=webp&quality=lossless&width=898&height=468" alt="ArtCollab Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392331152031746/structurizr-90530-Contenedor.png?ex=6675b012&is=66745e92&hm=11ccd44fcfca4c0a5414f8d974fbcd2ca3834329e337b1fa6fd766e89a04f57e&=&format=webp&quality=lossless&width=543&height=468" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
 API Rest Component Diagram:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643595432792094/api-rest-component-diagram.png?ex=66351e46&is=6633ccc6&hm=804357892c353e6dbfdb9c682c508a07012987d5568ebdd6dac8f83054dbbf8c&=&format=webp&quality=lossless&width=1365&height=597" alt="API Rest Component Diagram">
 
-User Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/GLFcnJQ84zCelEznlOucJoFbz3spTZgQ4JtoIIOMr8A/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/userbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="User BC Component Diagram">
-
-Content Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/rj8J2DVeW-hf5-ZS3JyD1oaCWvimo_cYqE9H-fTpSLM/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/contentbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="Content BC Component Diagram">
-
-Collaboration Bounded Context Component Diagram:
-
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643631227113502/collaborationbc-component-diagram.png?ex=66351e4e&is=6633ccce&hm=a0146639394f17a2bbcda8ede4c6c3f5ade5401491b2a418708b9b717dec5b7c&=&format=webp&quality=lossless&width=426&height=596" alt="Collaboration BC Component Diagram">
-
-Monetization Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/vCbi4M9CQFGa0PZSNWOBc5_JN_Js-pQLqxjjmqtT-9I/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/monetizationbc-component-diagram.png?format=webp&quality=lossless&width=459&height=596" alt="Monetization Bounded Context Class Diagram">
 
 <hr>
 
@@ -3526,11 +3402,11 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  19  <td>
+          <td>  41  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 19 <td>
+          <td> 41 <td>
       </tr>
 
 
@@ -3571,7 +3447,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W01  </th>
      <th> Navbar Section  </th>
      <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
-     <th> 0.3  </th>
+     <th> 2  </th>
      <th> Mathias Jave </th> 
      <th> Done </th>
    </tr>
@@ -3581,7 +3457,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W02  </th>
      <th> Responsive Navbar Section </th>
      <th> Adaptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
-     <th> 0.5  </th>
+     <th> 2  </th>
      <th> Mathias Jave </th> 
      <th> Done </th>
    </tr>
@@ -3591,7 +3467,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W03  </th>
      <th> Footer Section </th>
      <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
-     <th> 0.3  </th>
+     <th>1.5  </th>
      <th> Gustavo Huilca </th> 
      <th> Done </th>
    </tr>
@@ -3601,7 +3477,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W04  </th>
      <th> Responsive Footer Section </th>
      <th> Adaptar el footer en dispositivos móviles usando el enfoque mobile first   </th>
-     <th> 0.3  </th>
+     <th> 1.5  </th>
      <th> Gustavo Huilca/Mathias Jave </th> 
      <th> Done </th>
    </tr>
@@ -3611,7 +3487,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W05  </th>
      <th> Explora Section </th>
      <th> Implementar la sección de explora con la información de nuestra startup   </th>
-     <th> 2  </th>
+     <th> 4  </th>
      <th> Juan Cuadros </th> 
      <th> Done </th>
    </tr>
@@ -3621,7 +3497,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W06  </th>
      <th> Colabora Section </th>
      <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
-     <th> 2  </th>
+     <th> 4  </th>
      <th> Frida Dam </th> 
      <th> Done </th>
    </tr>
@@ -3632,7 +3508,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W07  </th>
      <th> Hero Section </th>
      <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
-     <th> 2  </th>
+     <th> 4  </th>
      <th> Camila Amaro </th> 
      <th> Done </th>
    </tr>
@@ -3645,8 +3521,8 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W08  </th>
      <th> Landing Page </th>
      <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
-     <th> 2.5  </th>
-     <th> Mathias Jave </th> 
+     <th> 6  </th>
+     <th> Camila Amaro </th> 
      <th> Done </th>
    </tr>
      <tr>
@@ -3655,7 +3531,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> W09  </th>
      <th> Landing Page </th>
      <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
-     <th> 2  </th>
+     <th> 5  </th>
      <th> Camila Amaro </th> 
      <th> Done </th>
    </tr>
@@ -4452,7 +4328,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  94  <td>
+          <td>  41  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -4470,7 +4346,6 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc151ac94e16C8BAC0EA/artcollab-sprint2
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1872&height=1040"/>
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -4518,7 +4393,7 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
       <th> W12  </th>
      <th> User Bounded Context </th>
      <th> Recuperar la contraseña de un usuario.  </th>
-     <th> 1  </th>
+     <th> 3  </th>
      <th> Gustavo Huilca </th> 
      <th> Done </th>
    </tr>
@@ -5056,7 +4931,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-          <td>  94  <td>
+          <td>  21  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -5097,7 +4972,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
      <th> Monetization Bounded Context </th>
       <th> Implementar el sistema de subscripciones a traves del API. 
       </th>
-     <th> 3 </th>
+     <th> 4 </th>
      <th> Frida Dam </th>
      <th> Done </th> 
    </tr>
@@ -5107,7 +4982,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       <th> W18  </th>
      <th> Content Bounded Context  </th>
      <th> Implementar la funcion para subir libros a traves del API.</th>
-     <th> 2 </th>
+     <th> 4 </th>
      <th> Camila Amaro </th> 
      <th> To Review </th>
    </tr>
@@ -5127,7 +5002,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       <th> W20  </th>
      <th> Monetization Bounded Context </th>
      <th> Implementar el sistema de comisiones a traves del API.  </th>
-     <th> 2 </th>
+     <th> 4 </th>
      <th> Mathias Jave </th> 
      <th> Done </th>
    </tr>
@@ -5147,7 +5022,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       <th> W22  </th>
      <th> Monetization Bounded Context </th>
      <th>  Utilizar una servicio externo para realizar el pago en una subscripción. </th>
-     <th>  4 </th>
+     <th>  6 </th>
      <th> Mathias Jave </th> 
      <th> To Do</th>
    </tr>
@@ -5158,7 +5033,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       <th> W23  </th>
      <th> Content Bounded Context </th>
      <th>  Utilizar una servicio externo para compartir libros a traves de las redes sociales. </th>
-     <th>  4 </th>
+     <th>  6 </th>
      <th> Camila Amaro </th> 
      <th> To Do</th>
    </tr>
@@ -6501,7 +6376,7 @@ Web Application
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-          <td> 52 <td>
+          <td> 7 <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -6542,7 +6417,7 @@ Web Application
      <th> Inicio de sesión por parte de usuario administrador </th>
       <th> Implementar IAM para inicio de sesión. 
       </th>
-     <th> 2 </th>
+     <th> 4 </th>
      <th> Frida Dam </th>
      <th> Done </th> 
    </tr>
@@ -6552,7 +6427,7 @@ Web Application
       <th> W23  </th>
      <th> Registro por parte de usuario administrador  </th>
      <th> Implementar IAM para registro. </th>
-     <th> 1 </th>
+     <th> 3 </th>
      <th> Camila Amaro </th> 
      <th> Done</th>
    </tr>
@@ -6562,7 +6437,7 @@ Web Application
       <th> W24  </th>
      <th> Inicio de sesión por parte de usuario no administrador </th>
      <th> Implementar denegación por falta de permisos.  </th>
-     <th> 1  </th>
+     <th> 3  </th>
      <th> Juan Cuadros </th> 
      <th> Done </th>
    </tr>
@@ -6572,7 +6447,7 @@ Web Application
       <th> W25  </th>
      <th> Registro por parte de usuario no administrador </th>
      <th> Implementar denegación por falta de permisos.   </th>
-     <th> 1 </th>
+     <th> 3 </th>
      <th> Mathias Jave </th> 
      <th> Done </th>
    </tr>
@@ -6582,7 +6457,7 @@ Web Application
       <th> W26  </th>
      <th> Security </th>
      <th>  Implementar solicitud de token para el uso de operaciones CRUD. </th>
-     <th>  2 </th>
+     <th>  5 </th>
      <th> Gustavo Huilca </th> 
      <th> Done </th>
    </tr>
